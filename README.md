@@ -1,4 +1,4 @@
-# MUD client and server for Mattermost
+ # MUD client and server for Mattermost
 
 Mattermud is the Multi-user dungeon integrated in Mattermost. The commands available are:  
 * start: Creates a player for you and starts the game  
